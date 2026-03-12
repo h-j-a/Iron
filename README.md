@@ -2,7 +2,7 @@
 
 A minimal, offline-first workout tracker PWA. Log sets, build routines, and track your progress — all from your browser.
 
-**[Try it live →]()**
+**[Try it live →](https://stupendous-melba-91e491.netlify.app/)**
 
 ## Features
 
